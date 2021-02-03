@@ -1,0 +1,21 @@
+body { min-height: 100vh; display: flex; flex-direction: column; }
+header{height: 60vh; } 
+main{flex-grow: 1;} 
+footer{height: 5vh; }
+
+/* .map-height{
+    height:35vh;
+} */
+
+.background-map{
+    background-image: url("https://chboothlibrary.org/wp-content/uploads/2020/02/04300-Tabby-cat-stretching-white-background.jpg");
+    background-size:  50vh;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+
+}
+.primary-img{
+    background-image: url("https://www.petguide.com/wp-content/uploads/2018/08/cat-stretching.jpg");
+    background-size: 50vh;
+    background-repeat: no-repeat;
+}
